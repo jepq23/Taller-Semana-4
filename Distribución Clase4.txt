@@ -3,5 +3,5 @@ Crear una clase jugador: Melissa Gonzales /  Honey_ 22
 Crear una clase enemigo melee: Camila Morán / StephanieCamila 
 Crear una clase enemigo rango: Carlos Zárate / Carlosz456 
 Crear una clase juego: Jesús Paredes / jepq23 
-Diagrama: Jesús Darian Lezama / dLezamadsz 
+Diagrama: Darian Lezama / dLezamadsz 
 Clase padre Enemy: Darian Lezama / dLezamadsz 
