@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Enemigo : MonoBehaviour
+public class Enemigo : Movimiento
 {
     public float hp;
     public float dmg;
@@ -34,5 +34,10 @@ public class Enemigo : MonoBehaviour
         {
             return false;
         }
+    }
+
+    private void Update()
+    {
+        rb.linearVelocity = Vector3.forward * velocidad;
     }
 }
